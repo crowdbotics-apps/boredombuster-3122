@@ -1,0 +1,3 @@
+rootProject.name = 'boredombuster_3122'
+
+include ':app'
